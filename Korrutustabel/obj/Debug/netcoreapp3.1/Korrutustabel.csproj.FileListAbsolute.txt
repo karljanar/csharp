@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel.deps.json
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel.dll
+/home/karljanar/csharp/Solution1/Korrutustabel/bin/Debug/netcoreapp3.1/Korrutustabel.pdb
+/home/karljanar/csharp/Solution1/Korrutustabel/obj/Debug/netcoreapp3.1/Korrutustabel.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Korrutustabel/obj/Debug/netcoreapp3.1/Korrutustabel.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Korrutustabel/obj/Debug/netcoreapp3.1/Korrutustabel.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Korrutustabel/obj/Debug/netcoreapp3.1/Korrutustabel.dll
+/home/karljanar/csharp/Solution1/Korrutustabel/obj/Debug/netcoreapp3.1/Korrutustabel.pdb

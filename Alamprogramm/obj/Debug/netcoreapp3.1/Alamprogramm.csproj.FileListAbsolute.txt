@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm.deps.json
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm.dll
+/home/karljanar/csharp/Solution1/Alamprogramm/bin/Debug/netcoreapp3.1/Alamprogramm.pdb
+/home/karljanar/csharp/Solution1/Alamprogramm/obj/Debug/netcoreapp3.1/Alamprogramm.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Alamprogramm/obj/Debug/netcoreapp3.1/Alamprogramm.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Alamprogramm/obj/Debug/netcoreapp3.1/Alamprogramm.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Alamprogramm/obj/Debug/netcoreapp3.1/Alamprogramm.dll
+/home/karljanar/csharp/Solution1/Alamprogramm/obj/Debug/netcoreapp3.1/Alamprogramm.pdb

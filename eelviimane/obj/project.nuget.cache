@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8f+9wDjDoewuSjAek7hIKZ206rpt05lEhH1OSgY6lns2lKHR+r12aIN/wPiHgeRZMDgYh4p6QCAIFbxfnO8UPw==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

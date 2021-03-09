@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3.deps.json
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3.dll
+/home/karljanar/csharp/Solution1/Punktid3/bin/Debug/netcoreapp3.1/Punktid3.pdb
+/home/karljanar/csharp/Solution1/Punktid3/obj/Debug/netcoreapp3.1/Punktid3.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Punktid3/obj/Debug/netcoreapp3.1/Punktid3.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Punktid3/obj/Debug/netcoreapp3.1/Punktid3.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Punktid3/obj/Debug/netcoreapp3.1/Punktid3.dll
+/home/karljanar/csharp/Solution1/Punktid3/obj/Debug/netcoreapp3.1/Punktid3.pdb

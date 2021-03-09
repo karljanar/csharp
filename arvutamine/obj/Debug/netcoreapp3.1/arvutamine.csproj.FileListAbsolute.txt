@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine.deps.json
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine.runtimeconfig.json
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine.dll
+/home/karljanar/csharp/Solution1/arvutamine/bin/Debug/netcoreapp3.1/arvutamine.pdb
+/home/karljanar/csharp/Solution1/arvutamine/obj/Debug/netcoreapp3.1/arvutamine.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/arvutamine/obj/Debug/netcoreapp3.1/arvutamine.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/arvutamine/obj/Debug/netcoreapp3.1/arvutamine.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/arvutamine/obj/Debug/netcoreapp3.1/arvutamine.dll
+/home/karljanar/csharp/Solution1/arvutamine/obj/Debug/netcoreapp3.1/arvutamine.pdb

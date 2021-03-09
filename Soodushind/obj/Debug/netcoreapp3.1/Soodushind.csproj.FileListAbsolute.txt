@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind.deps.json
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind.dll
+/home/karljanar/csharp/Solution1/Soodushind/bin/Debug/netcoreapp3.1/Soodushind.pdb
+/home/karljanar/csharp/Solution1/Soodushind/obj/Debug/netcoreapp3.1/Soodushind.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Soodushind/obj/Debug/netcoreapp3.1/Soodushind.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Soodushind/obj/Debug/netcoreapp3.1/Soodushind.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Soodushind/obj/Debug/netcoreapp3.1/Soodushind.dll
+/home/karljanar/csharp/Solution1/Soodushind/obj/Debug/netcoreapp3.1/Soodushind.pdb

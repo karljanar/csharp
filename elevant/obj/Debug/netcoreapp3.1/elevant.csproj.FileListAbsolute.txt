@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant.deps.json
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant.runtimeconfig.json
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant.dll
+/home/karljanar/csharp/Solution1/elevant/bin/Debug/netcoreapp3.1/elevant.pdb
+/home/karljanar/csharp/Solution1/elevant/obj/Debug/netcoreapp3.1/elevant.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/elevant/obj/Debug/netcoreapp3.1/elevant.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/elevant/obj/Debug/netcoreapp3.1/elevant.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/elevant/obj/Debug/netcoreapp3.1/elevant.dll
+/home/karljanar/csharp/Solution1/elevant/obj/Debug/netcoreapp3.1/elevant.pdb

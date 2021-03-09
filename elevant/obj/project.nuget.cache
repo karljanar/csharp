@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vs66O7NYfrAeA6nv/0PcohV0cileelDBK8CJ0uWjTnS+fG0GhCiC8R5wSJLpb2lestgoADkVJ6aNKD7H2BWXaQ==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/elevant/elevant.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

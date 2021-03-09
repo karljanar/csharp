@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3.deps.json
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3.dll
+/home/karljanar/csharp/Solution1/Proov3/bin/Debug/netcoreapp3.1/Proov3.pdb
+/home/karljanar/csharp/Solution1/Proov3/obj/Debug/netcoreapp3.1/Proov3.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Proov3/obj/Debug/netcoreapp3.1/Proov3.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Proov3/obj/Debug/netcoreapp3.1/Proov3.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Proov3/obj/Debug/netcoreapp3.1/Proov3.dll
+/home/karljanar/csharp/Solution1/Proov3/obj/Debug/netcoreapp3.1/Proov3.pdb

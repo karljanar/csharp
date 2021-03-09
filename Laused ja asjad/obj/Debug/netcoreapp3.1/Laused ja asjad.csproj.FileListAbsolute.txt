@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad.deps.json
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad.runtimeconfig.json
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad.dll
+/home/karljanar/csharp/Solution1/Laused ja asjad/bin/Debug/netcoreapp3.1/Laused ja asjad.pdb
+/home/karljanar/csharp/Solution1/Laused ja asjad/obj/Debug/netcoreapp3.1/Laused ja asjad.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/Laused ja asjad/obj/Debug/netcoreapp3.1/Laused ja asjad.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/Laused ja asjad/obj/Debug/netcoreapp3.1/Laused ja asjad.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/Laused ja asjad/obj/Debug/netcoreapp3.1/Laused ja asjad.dll
+/home/karljanar/csharp/Solution1/Laused ja asjad/obj/Debug/netcoreapp3.1/Laused ja asjad.pdb

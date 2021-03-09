@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwAtU92mcY7/9uW0C67nNAx7CHDs+hIgdRsqzZUCS8xWO1QICnQ5QW0z3si/4/pS1MW4lQTOiraFBegqjpEsSg==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/abi/abi.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

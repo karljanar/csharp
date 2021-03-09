@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur.deps.json
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur.runtimeconfig.json
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur.dll
+/home/karljanar/csharp/Solution1/ruur/bin/Debug/netcoreapp3.1/ruur.pdb
+/home/karljanar/csharp/Solution1/ruur/obj/Debug/netcoreapp3.1/ruur.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/ruur/obj/Debug/netcoreapp3.1/ruur.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/ruur/obj/Debug/netcoreapp3.1/ruur.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/ruur/obj/Debug/netcoreapp3.1/ruur.dll
+/home/karljanar/csharp/Solution1/ruur/obj/Debug/netcoreapp3.1/ruur.pdb

@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2.deps.json
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2.runtimeconfig.json
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2.dll
+/home/karljanar/csharp/Solution1/massiiv2/bin/Debug/netcoreapp3.1/massiiv2.pdb
+/home/karljanar/csharp/Solution1/massiiv2/obj/Debug/netcoreapp3.1/massiiv2.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/massiiv2/obj/Debug/netcoreapp3.1/massiiv2.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/massiiv2/obj/Debug/netcoreapp3.1/massiiv2.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/massiiv2/obj/Debug/netcoreapp3.1/massiiv2.dll
+/home/karljanar/csharp/Solution1/massiiv2/obj/Debug/netcoreapp3.1/massiiv2.pdb

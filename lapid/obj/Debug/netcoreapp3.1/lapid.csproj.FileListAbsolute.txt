@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid.deps.json
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid.runtimeconfig.json
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid.dll
+/home/karljanar/csharp/Solution1/lapid/bin/Debug/netcoreapp3.1/lapid.pdb
+/home/karljanar/csharp/Solution1/lapid/obj/Debug/netcoreapp3.1/lapid.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/lapid/obj/Debug/netcoreapp3.1/lapid.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/lapid/obj/Debug/netcoreapp3.1/lapid.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/lapid/obj/Debug/netcoreapp3.1/lapid.dll
+/home/karljanar/csharp/Solution1/lapid/obj/Debug/netcoreapp3.1/lapid.pdb

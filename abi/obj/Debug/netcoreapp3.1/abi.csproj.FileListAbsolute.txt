@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi.deps.json
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi.runtimeconfig.json
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi.dll
+/home/karljanar/csharp/Solution1/abi/bin/Debug/netcoreapp3.1/abi.pdb
+/home/karljanar/csharp/Solution1/abi/obj/Debug/netcoreapp3.1/abi.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/abi/obj/Debug/netcoreapp3.1/abi.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/abi/obj/Debug/netcoreapp3.1/abi.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/abi/obj/Debug/netcoreapp3.1/abi.dll
+/home/karljanar/csharp/Solution1/abi/obj/Debug/netcoreapp3.1/abi.pdb

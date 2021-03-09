@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus.deps.json
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus.runtimeconfig.json
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus.dll
+/home/karljanar/csharp/Solution1/sugupikkus/bin/Debug/netcoreapp3.1/sugupikkus.pdb
+/home/karljanar/csharp/Solution1/sugupikkus/obj/Debug/netcoreapp3.1/sugupikkus.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/sugupikkus/obj/Debug/netcoreapp3.1/sugupikkus.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/sugupikkus/obj/Debug/netcoreapp3.1/sugupikkus.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/sugupikkus/obj/Debug/netcoreapp3.1/sugupikkus.dll
+/home/karljanar/csharp/Solution1/sugupikkus/obj/Debug/netcoreapp3.1/sugupikkus.pdb

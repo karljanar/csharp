@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane.deps.json
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane.runtimeconfig.json
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane.dll
+/home/karljanar/csharp/Solution1/eelviimane/bin/Debug/netcoreapp3.1/eelviimane.pdb
+/home/karljanar/csharp/Solution1/eelviimane/obj/Debug/netcoreapp3.1/eelviimane.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/eelviimane/obj/Debug/netcoreapp3.1/eelviimane.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/eelviimane/obj/Debug/netcoreapp3.1/eelviimane.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/eelviimane/obj/Debug/netcoreapp3.1/eelviimane.dll
+/home/karljanar/csharp/Solution1/eelviimane/obj/Debug/netcoreapp3.1/eelviimane.pdb

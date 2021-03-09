@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1axkLnaJX69JHGWr/6itzl3rtkubsHPG1lbjkpaQh+OhnK2C1E+2b3gk6KSGoVykvuG52Xg5/quXPDUiNxinGQ==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/tarnid/tarnid.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

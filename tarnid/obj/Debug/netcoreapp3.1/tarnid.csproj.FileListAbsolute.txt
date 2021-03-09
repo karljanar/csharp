@@ -1,0 +1,11 @@
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid.deps.json
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid.runtimeconfig.json
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid.runtimeconfig.dev.json
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid.dll
+/home/karljanar/csharp/Solution1/tarnid/bin/Debug/netcoreapp3.1/tarnid.pdb
+/home/karljanar/csharp/Solution1/tarnid/obj/Debug/netcoreapp3.1/tarnid.csprojAssemblyReference.cache
+/home/karljanar/csharp/Solution1/tarnid/obj/Debug/netcoreapp3.1/tarnid.AssemblyInfoInputs.cache
+/home/karljanar/csharp/Solution1/tarnid/obj/Debug/netcoreapp3.1/tarnid.AssemblyInfo.cs
+/home/karljanar/csharp/Solution1/tarnid/obj/Debug/netcoreapp3.1/tarnid.dll
+/home/karljanar/csharp/Solution1/tarnid/obj/Debug/netcoreapp3.1/tarnid.pdb

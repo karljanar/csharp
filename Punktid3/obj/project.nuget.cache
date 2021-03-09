@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLXXHMMlJzHIdQtUPt8COB5hiqX4HxflTgLJTO59OjpOQxWWeXRWGrQqa1Ud/pAuJAb0H0v05Fz4yS0KDc7mqw==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/Punktid3/Punktid3.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

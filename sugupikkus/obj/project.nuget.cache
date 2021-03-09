@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFyEhcw7b90MSjftwnMECOiHo/t2QflwJmFe2k9aq0qaDsNlfc3TCfPtPWs/GGIF4edt6yBrlikDzria5rLGug==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/sugupikkus/sugupikkus.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

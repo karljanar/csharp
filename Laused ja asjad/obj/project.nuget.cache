@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sSCbV0h7m2BnOTJqyIDsPrTOGxT7YlPDD3Ncg6eOWL1arWZZqsqhnlnB7r5+27jLV6CfXBGASUK1f9j98cSkA==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

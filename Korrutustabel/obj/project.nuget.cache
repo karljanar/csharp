@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJjwelJjuO/p7Y2VwBI1MvR6wnzNHpLyWAQvoZLl7T+obOwVALWLaFayxcJykIqsGV2ZAUugwdoK8xrTfra9AQ==",
+  "success": true,
+  "projectFilePath": "/home/karljanar/csharp/Solution1/Korrutustabel/Korrutustabel.csproj",
+  "expectedPackageFiles": [
+    "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
