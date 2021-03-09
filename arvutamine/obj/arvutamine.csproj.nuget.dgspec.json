@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/arvutamine/arvutamine.csproj": {}
+    "/home/karljanar/csharp/csharp/arvutamine/arvutamine.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/arvutamine/arvutamine.csproj": {
+    "/home/karljanar/csharp/csharp/arvutamine/arvutamine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/arvutamine/arvutamine.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/arvutamine/arvutamine.csproj",
         "projectName": "arvutamine",
-        "projectPath": "/home/karljanar/csharp/Solution1/arvutamine/arvutamine.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/arvutamine/arvutamine.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/arvutamine/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/arvutamine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

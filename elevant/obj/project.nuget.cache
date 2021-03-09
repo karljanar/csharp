@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vs66O7NYfrAeA6nv/0PcohV0cileelDBK8CJ0uWjTnS+fG0GhCiC8R5wSJLpb2lestgoADkVJ6aNKD7H2BWXaQ==",
+  "dgSpecHash": "ODstSyri3MVZ3v1UcSRgE/xNxTWEl8w2G2nwsitHM4d+j30JfK3qdWFpKkb7E2J5lL6uknbKkx2BHhNgJ+UpQw==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/elevant/elevant.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/elevant/elevant.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

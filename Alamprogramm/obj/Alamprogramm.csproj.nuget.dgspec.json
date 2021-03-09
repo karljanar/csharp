@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/Alamprogramm/Alamprogramm.csproj": {}
+    "/home/karljanar/csharp/csharp/Alamprogramm/Alamprogramm.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/Alamprogramm/Alamprogramm.csproj": {
+    "/home/karljanar/csharp/csharp/Alamprogramm/Alamprogramm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/Alamprogramm/Alamprogramm.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/Alamprogramm/Alamprogramm.csproj",
         "projectName": "Alamprogramm",
-        "projectPath": "/home/karljanar/csharp/Solution1/Alamprogramm/Alamprogramm.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/Alamprogramm/Alamprogramm.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/Alamprogramm/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/Alamprogramm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

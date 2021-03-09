@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pc3ZUDheFg0+vdcl+fKxicwARYWEX2+0mJYKMRkXG+CNwNIVpUzqm9cf03q/FOMDmaxnCNBn5v2+UjJlCqAZ6w==",
+  "dgSpecHash": "SFu71fwBAhqLaXGxKbEdzatvPjEDc380h5j2pBD0RFDpKGYXMXuTvZSI99Pl/nMamU4GuFNVg+6EfjH7Gl0e8w==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/massiiv/massiiv.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/massiiv/massiiv.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

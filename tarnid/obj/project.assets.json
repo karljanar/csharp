@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karljanar/csharp/Solution1/tarnid/tarnid.csproj",
+      "projectUniqueName": "/home/karljanar/csharp/csharp/tarnid/tarnid.csproj",
       "projectName": "tarnid",
-      "projectPath": "/home/karljanar/csharp/Solution1/tarnid/tarnid.csproj",
+      "projectPath": "/home/karljanar/csharp/csharp/tarnid/tarnid.csproj",
       "packagesPath": "/home/karljanar/.nuget/packages/",
-      "outputPath": "/home/karljanar/csharp/Solution1/tarnid/obj/",
+      "outputPath": "/home/karljanar/csharp/csharp/tarnid/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karljanar/.nuget/NuGet/NuGet.Config"

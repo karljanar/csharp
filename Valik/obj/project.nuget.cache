@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qHE+3dVE9tikJmJnB756xMHJFQg0YGvwwMsLrr3+lWRs24zlBNyl9njl0MTF2eitCpGzDUVrpGdkdCscTnZ0w==",
+  "dgSpecHash": "cF9f9CRffgffSnlFrczDLSrWu4C+VRBbsiBdVyySjDjfQoCdLGAnlcDgVq3ndeuGOXd6SAPx4gacziPxbT+ebA==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/Valik/Valik.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/Valik/Valik.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/abi/abi.csproj": {}
+    "/home/karljanar/csharp/csharp/abi/abi.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/abi/abi.csproj": {
+    "/home/karljanar/csharp/csharp/abi/abi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/abi/abi.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/abi/abi.csproj",
         "projectName": "abi",
-        "projectPath": "/home/karljanar/csharp/Solution1/abi/abi.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/abi/abi.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/abi/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/abi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karljanar/csharp/Solution1/sugupikkus/sugupikkus.csproj",
+      "projectUniqueName": "/home/karljanar/csharp/csharp/sugupikkus/sugupikkus.csproj",
       "projectName": "sugupikkus",
-      "projectPath": "/home/karljanar/csharp/Solution1/sugupikkus/sugupikkus.csproj",
+      "projectPath": "/home/karljanar/csharp/csharp/sugupikkus/sugupikkus.csproj",
       "packagesPath": "/home/karljanar/.nuget/packages/",
-      "outputPath": "/home/karljanar/csharp/Solution1/sugupikkus/obj/",
+      "outputPath": "/home/karljanar/csharp/csharp/sugupikkus/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karljanar/.nuget/NuGet/NuGet.Config"

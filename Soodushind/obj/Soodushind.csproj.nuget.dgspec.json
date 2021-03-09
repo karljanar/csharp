@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/Soodushind/Soodushind.csproj": {}
+    "/home/karljanar/csharp/csharp/Soodushind/Soodushind.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/Soodushind/Soodushind.csproj": {
+    "/home/karljanar/csharp/csharp/Soodushind/Soodushind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/Soodushind/Soodushind.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/Soodushind/Soodushind.csproj",
         "projectName": "Soodushind",
-        "projectPath": "/home/karljanar/csharp/Solution1/Soodushind/Soodushind.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/Soodushind/Soodushind.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/Soodushind/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/Soodushind/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DwAtU92mcY7/9uW0C67nNAx7CHDs+hIgdRsqzZUCS8xWO1QICnQ5QW0z3si/4/pS1MW4lQTOiraFBegqjpEsSg==",
+  "dgSpecHash": "bWw2s+GIQucdh1Xhvc9Bz0bJ9kbclwgfjatKewyx1D5wrYtRAPQ6PCExQM3fEjpyB3AkmGsCP+O16F/tO7cyJQ==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/abi/abi.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/abi/abi.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

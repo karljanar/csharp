@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/ConsoleApp2/ConsoleApp2.csproj": {}
+    "/home/karljanar/csharp/csharp/ConsoleApp2/ConsoleApp2.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/ConsoleApp2/ConsoleApp2.csproj": {
+    "/home/karljanar/csharp/csharp/ConsoleApp2/ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/ConsoleApp2/ConsoleApp2.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/ConsoleApp2/ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "/home/karljanar/csharp/Solution1/ConsoleApp2/ConsoleApp2.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/ConsoleApp2/ConsoleApp2.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/ConsoleApp2/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/ConsoleApp2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

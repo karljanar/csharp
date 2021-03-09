@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/elevant/elevant.csproj": {}
+    "/home/karljanar/csharp/csharp/elevant/elevant.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/elevant/elevant.csproj": {
+    "/home/karljanar/csharp/csharp/elevant/elevant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/elevant/elevant.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/elevant/elevant.csproj",
         "projectName": "elevant",
-        "projectPath": "/home/karljanar/csharp/Solution1/elevant/elevant.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/elevant/elevant.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/elevant/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/elevant/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

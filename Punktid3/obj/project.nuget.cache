@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iLXXHMMlJzHIdQtUPt8COB5hiqX4HxflTgLJTO59OjpOQxWWeXRWGrQqa1Ud/pAuJAb0H0v05Fz4yS0KDc7mqw==",
+  "dgSpecHash": "pEcFaqIjtlngxKrhdsiZwfzjLZP2nix/CxGJRgZ8RTRrpwkLDS+ynXgoCzRk7GiWdMW5h8OPpkdoT42yxxoFoQ==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/Punktid3/Punktid3.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/Punktid3/Punktid3.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

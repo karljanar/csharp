@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/Valik/Valik.csproj": {}
+    "/home/karljanar/csharp/csharp/Valik/Valik.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/Valik/Valik.csproj": {
+    "/home/karljanar/csharp/csharp/Valik/Valik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/Valik/Valik.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/Valik/Valik.csproj",
         "projectName": "Valik",
-        "projectPath": "/home/karljanar/csharp/Solution1/Valik/Valik.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/Valik/Valik.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/Valik/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/Valik/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

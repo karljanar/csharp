@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nKdgR7AbLIbWKek1xBjbcyRSE03CASFg5S2A4p26K6ABJNCylH6sJdaZPEO7ljQqquEiJqKNPINcv6/IZlRvFw==",
+  "dgSpecHash": "Zj+mLctaM35mu3a2qoWWtpAomlPyXjWlU75GY4omndy9YN1+1wE5EFuHakdVNKSfoWYjbRNeUJv2pzU/p+cJyA==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/Alamprogramm/Alamprogramm.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/Alamprogramm/Alamprogramm.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

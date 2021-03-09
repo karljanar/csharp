@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sSCbV0h7m2BnOTJqyIDsPrTOGxT7YlPDD3Ncg6eOWL1arWZZqsqhnlnB7r5+27jLV6CfXBGASUK1f9j98cSkA==",
+  "dgSpecHash": "G3xHv3rY/2q4GAE3M6TlGPmHPJnHPvUGtpq4Xc+pjTLzUCQ43fV7L4EXH65mPNKpozmvF1xMzZvtml2VLM4E0Q==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/Laused ja asjad/Laused ja asjad.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

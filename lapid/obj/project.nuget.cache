@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "if2BIeJb5b/Rxnp5JkMp5IF8aoHg3xKmG17Zjt+/r8MLHjlQ84z088FiYTHG3EOXAzPFsoDw3jHAKge/boKqMQ==",
+  "dgSpecHash": "OApKN7r4IQX+VQcRnacOAaSVWzSH67GUVQ4j2CJWrMqXUxwVtAgSr5boiaHzvoFLr/m71BSxdbulE9iWuGM29w==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/lapid/lapid.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/lapid/lapid.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

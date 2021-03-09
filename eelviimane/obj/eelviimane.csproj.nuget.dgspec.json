@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj": {}
+    "/home/karljanar/csharp/csharp/eelviimane/eelviimane.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj": {
+    "/home/karljanar/csharp/csharp/eelviimane/eelviimane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/eelviimane/eelviimane.csproj",
         "projectName": "eelviimane",
-        "projectPath": "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/eelviimane/eelviimane.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/eelviimane/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/eelviimane/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

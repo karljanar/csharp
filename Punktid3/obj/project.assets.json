@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karljanar/csharp/Solution1/Punktid3/Punktid3.csproj",
+      "projectUniqueName": "/home/karljanar/csharp/csharp/Punktid3/Punktid3.csproj",
       "projectName": "Punktid3",
-      "projectPath": "/home/karljanar/csharp/Solution1/Punktid3/Punktid3.csproj",
+      "projectPath": "/home/karljanar/csharp/csharp/Punktid3/Punktid3.csproj",
       "packagesPath": "/home/karljanar/.nuget/packages/",
-      "outputPath": "/home/karljanar/csharp/Solution1/Punktid3/obj/",
+      "outputPath": "/home/karljanar/csharp/csharp/Punktid3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karljanar/.nuget/NuGet/NuGet.Config"

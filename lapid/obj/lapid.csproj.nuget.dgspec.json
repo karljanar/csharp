@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/lapid/lapid.csproj": {}
+    "/home/karljanar/csharp/csharp/lapid/lapid.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/lapid/lapid.csproj": {
+    "/home/karljanar/csharp/csharp/lapid/lapid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/lapid/lapid.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/lapid/lapid.csproj",
         "projectName": "lapid",
-        "projectPath": "/home/karljanar/csharp/Solution1/lapid/lapid.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/lapid/lapid.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/lapid/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/lapid/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karljanar/csharp/Solution1/Korrutustabel/Korrutustabel.csproj",
+      "projectUniqueName": "/home/karljanar/csharp/csharp/Korrutustabel/Korrutustabel.csproj",
       "projectName": "Korrutustabel",
-      "projectPath": "/home/karljanar/csharp/Solution1/Korrutustabel/Korrutustabel.csproj",
+      "projectPath": "/home/karljanar/csharp/csharp/Korrutustabel/Korrutustabel.csproj",
       "packagesPath": "/home/karljanar/.nuget/packages/",
-      "outputPath": "/home/karljanar/csharp/Solution1/Korrutustabel/obj/",
+      "outputPath": "/home/karljanar/csharp/csharp/Korrutustabel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karljanar/.nuget/NuGet/NuGet.Config"

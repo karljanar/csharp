@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cRPxEQG0qqEBCg8I45s0WSm4JX7PXAKMlQ7PVIaUXuwhPn/jnv5/W+txh8NRyhKCxwBQgl89fq/VibZy4aWBRg==",
+  "dgSpecHash": "0p6vOsQwTMNaeWKG+5gfKLP53f1qMhH69Iix6k+JfzX63aOYX8Gg9RmjwPrYUb9mrxZIKsmeX+MqKBFrUx0HXg==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/ConsoleApp2/ConsoleApp2.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/ConsoleApp2/ConsoleApp2.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

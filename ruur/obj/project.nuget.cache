@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3PhKcwcG/zMDNteVuFvP7rcC9QqrA84t1+nAHQ7HQ7ACL7aSyxXh30TuewcHx+/YMUKV855VxZhAvquY5mOhA==",
+  "dgSpecHash": "RlT1QhujpQZNhUyVwqSD7sStZbAvRNAj+ScxqOkn/BVA/AlNOAuADOmvYh0Eu1J7zRupDokAJxsKtfv//vfXXw==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/ruur/ruur.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/ruur/ruur.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

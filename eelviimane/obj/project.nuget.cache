@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8f+9wDjDoewuSjAek7hIKZ206rpt05lEhH1OSgY6lns2lKHR+r12aIN/wPiHgeRZMDgYh4p6QCAIFbxfnO8UPw==",
+  "dgSpecHash": "8fmu0Po69esx8v28MrimvdkFnFKlTSVG1cpaVXfsd5Z+1NSuFxZn459aQY0Eqvts6Hu3hREivP8X45dNl/NubA==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/eelviimane/eelviimane.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/eelviimane/eelviimane.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

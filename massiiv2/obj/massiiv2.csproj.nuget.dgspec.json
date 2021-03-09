@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/massiiv2/massiiv2.csproj": {}
+    "/home/karljanar/csharp/csharp/massiiv2/massiiv2.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/massiiv2/massiiv2.csproj": {
+    "/home/karljanar/csharp/csharp/massiiv2/massiiv2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/massiiv2/massiiv2.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/massiiv2/massiiv2.csproj",
         "projectName": "massiiv2",
-        "projectPath": "/home/karljanar/csharp/Solution1/massiiv2/massiiv2.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/massiiv2/massiiv2.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/massiiv2/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/massiiv2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

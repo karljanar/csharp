@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/ruur/ruur.csproj": {}
+    "/home/karljanar/csharp/csharp/ruur/ruur.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/ruur/ruur.csproj": {
+    "/home/karljanar/csharp/csharp/ruur/ruur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/ruur/ruur.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/ruur/ruur.csproj",
         "projectName": "ruur",
-        "projectPath": "/home/karljanar/csharp/Solution1/ruur/ruur.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/ruur/ruur.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/ruur/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/ruur/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

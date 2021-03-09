@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "br48A3phqQP86JrFedw+FQ25tWbnxldozl/jtSLjZ43UjKyaV6j10HvEPi4TqfZAevv2dSWShZDSP8g21t2JcQ==",
+  "dgSpecHash": "MZmoAd2JJ9YXcFR412esXfLYqxkkmq4+NzIuzCuOZaOx0PEhzxPSPsLlQ2vPhwEAQ+I5n5RTPOIO5ORMpS+rMg==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/arvutamine/arvutamine.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/arvutamine/arvutamine.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],

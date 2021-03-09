@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj": {}
+    "/home/karljanar/csharp/csharp/Laused ja asjad/Laused ja asjad.csproj": {}
   },
   "projects": {
-    "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj": {
+    "/home/karljanar/csharp/csharp/Laused ja asjad/Laused ja asjad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj",
+        "projectUniqueName": "/home/karljanar/csharp/csharp/Laused ja asjad/Laused ja asjad.csproj",
         "projectName": "Laused ja asjad",
-        "projectPath": "/home/karljanar/csharp/Solution1/Laused ja asjad/Laused ja asjad.csproj",
+        "projectPath": "/home/karljanar/csharp/csharp/Laused ja asjad/Laused ja asjad.csproj",
         "packagesPath": "/home/karljanar/.nuget/packages/",
-        "outputPath": "/home/karljanar/csharp/Solution1/Laused ja asjad/obj/",
+        "outputPath": "/home/karljanar/csharp/csharp/Laused ja asjad/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/karljanar/.nuget/NuGet/NuGet.Config"

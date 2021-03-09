@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xy7MVWyETvf/hhcKYBqSEnRl905w0i90inL6dTXplZMee0yh473NUHNUeflmB5qpfP8OV/mNGHlrDGFH5WJ9Vg==",
+  "dgSpecHash": "xlrAAf8jIngICvXg3ff3xrEPLDzcoMm1bb+/ai825/6tzs2b4L4Dmme/OY/yTagswQdNg+PbGyz++2V8rJwZpw==",
   "success": true,
-  "projectFilePath": "/home/karljanar/csharp/Solution1/Soodushind/Soodushind.csproj",
+  "projectFilePath": "/home/karljanar/csharp/csharp/Soodushind/Soodushind.csproj",
   "expectedPackageFiles": [
     "/home/karljanar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],
